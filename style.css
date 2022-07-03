@@ -1,0 +1,41 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+
+h1{
+    font-size: 50px;
+}
+
+.Faiaz_Ahsan{
+    color: orange;
+}
+
+section{
+    display: flex;
+}
+
+.half_width{
+    width: 50%;
+    padding-left: 10%;
+}
+
+.half_width img{
+    width: 80%;
+}
+
+.hire_me_button{
+    text-decoration: none;
+    background-image: linear-gradient(orange, red);
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+    
+
+}
+
+.top_banner{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
